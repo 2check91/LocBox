@@ -1,0 +1,16 @@
+{
+  "name": "locbox",
+  "version": "1.0.0",
+  "main": "Authorize.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^3.6.9",
+    "firebase-admin": "^4.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}

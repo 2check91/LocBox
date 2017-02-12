@@ -1,0 +1,10 @@
+var admin = require("firebase-admin");
+
+admin.initializeApp({
+  credential: admin.credential.cert({
+    projectId: "asdfasda-4bc1f",
+    "client_email": "firebase-adminsdk-1l9zm@asdfasda-4bc1f.iam.gserviceaccount.com",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC6vlVWJ/cSXHrv\nz9R2O5Dpf/QLrBIoxh/CJpDCF994RXYj5pXKj+iPIA7HSYQdQNLZklaL0YhVE07t\n8eGyl6KAYm8i6+PhJGVK0iAP9tZN+ydPJgpWEhsuC8x7yF11v0kNtIzsGlydFHnG\nWopD/Ril4GKpMvvSnDFAN4dD30pS2K0Me9HtZz534qoi1cRHNdMQk6Mm8SA+Vljb\nkxxkyrOaD1+VHUqWT66zZhqv6ziK9PldZb5Nj3NA59Z7Ci+2hA+jvitd+5dP69Vx\nfCccirP4k6QaZubLWKYRdH82Yf21J0r5WSqPy+66WJfCt54u2nbMPd6dg2Pw2O61\nISO9tTVrAgMBAAECggEAVXF01kDe+VW7IjKzgY1rlorm/Ng0Tten/Ets/IGzy/Hs\nRizg6JfDzojaejCW9FOOpeIhG0Q53sNA3/pGTFK5FYj0VMQdtgvTFNLjvKoyD+gU\nalB7djo+mWjonNJmgNOO92he+kBtk6mkti8DCGyrdGogek5LjmfM2RcPGuz1ssWM\n/mUoPUzyesrDigwsvP3QoFVUWm/m+++EnTprW0u5MaNcYhfT4l7jDrmrwVdd38Ue\nSZLwEZcZ8sfBnU0TQMZyibxDHfngkTV2abzocHheuxxmti9HhiAOcKvbsdx9GBcj\n07aUVxfOBVVL+ud0NkimXebNRTmSfZ3FClst3cwpkQKBgQDdhMCNRNEft/ynbXsq\nmgBM77DUdZzfUM3VZW+BDxIbvDdUBYE6F6fM5B//2ArCitkuNVz8oSq+QnhWb0RV\np6fdzTcWuVIw8UZS5l3HGrG0mXV2BM3lMdGYa/ZlbnM6OoijCSxGCtQjK4BjpaKV\nkUGCGliKa4bjU1gBlAgldlvVLQKBgQDXz9YfBarMo9ExmwKbpbVmLji8+KFvmB8k\nKVzaYHgHpICoMPaPaKg2HEY0BQv07G4cIq3sKuxrjpCn30Deq2LIZoudfo9Jwqtj\nB82txTnM66HpjxET24qrFeASY9tOs1tU2IGmk081MGS70jKY7sNP/P9FtzrGqY5b\nwTjADOcD9wKBgE3BN0VfDnivwEOUrlL503kt+UfaMMJCPr3U6RrIC3cozdL0S7P0\ncbX9rS3Ey6IV0r3hhU431CUMd+j/DWFzg/za96dGTY9YYXLf4bLtr8rQwuY2MX9t\nyUBTRR29czzRJvzzT1MWoffmYR6ZGUSew/vC+6k6rRJGQvHq4CEmNn3RAoGBAMKM\nkjKVIUwpwcQ+QTOfRtA+iteQK7g2IpyuzQ3wOURqf7EfsqXFax6cjo0Gn6jEGt8y\nRCfK6iZr9uveztPtHLgb+XCZTwLngylbN4eXbGvXX7b1SifkmjVxGvZ5HpLsDUGH\njBlmYtlILwdCjmpfk6LgKB/o9gtxfuwoW8iF2RwxAoGBAI6WkqaY1saIe3U5RmsC\nMn/8zuA2nG4DTMUiASkYhhxMhrv41BN7BUMrmnZzV9UK3VQi2y5x7u/lFBdp+4sw\nPU1zR+s/oGzQJVTCwG2Q3B4+C/uKIvo0v2YgG0USk6gtuG+vqCDiRqFFOg4+Dru4\nBHZOTOTxzyaMPckahLEi0VXt\n-----END PRIVATE KEY-----\n",
+  }),
+  databaseURL: "https://asdfasda-4bc1f.firebaseio.com"
+});

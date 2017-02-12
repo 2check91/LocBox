@@ -1,0 +1,37 @@
+{
+    "restrictions": [{
+        "phone": "7325527269",
+        "merchants_only": ["Macys", "Starbucks", "Galvanize", "Chipotle"],
+        "location": "XXXXXXX",
+        "time": "XXXXXX",
+        "single_max": "100.00"
+        },
+        {
+            "phone": "8478499720",
+            "merchants_only": ["Sears", "Peet's Coffee", "Taco City", "Pho Tan Hao"],
+            "location": "XXXXXXX",
+            "time": "XXXXXX",
+            "single_max": "XX.XX"
+            },
+        {
+            "phone": "7326845625",
+            "merchants_only": ["Extreme Pizza", "Dumpster Dumplings", "Subway", "Apple"],
+            "location": "XXXXXXX",
+            "time": "XXXXXX",
+            "single_max": "XX.XX"
+            },
+        {
+            "phone": "2064984827",
+            "merchants_only": ["Organic Cafe", "Chicken Palace", "Cheese Galore", "Chuckee Cheese"],
+            "location": "XXXXXXX",
+            "time": "XXXXXX",
+            "single_max": "XX.XX"
+            },
+        {
+            "phone": "4842740742",
+            "merchants_only": ["Macy's", "Buffalo Wild Wings", "Liquor City", "Safeway"],
+            "location": "XXXXXXX",
+            "time": "XXXXXX",
+            "single_max": "XX.XX"
+            }
+         ]}
