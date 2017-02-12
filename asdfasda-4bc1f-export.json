@@ -1,0 +1,79 @@
+{
+  "users" : {
+    "4842740742" : {
+      "authenticationState" : "AUTHENTICATED",
+      "money" : {
+        "amount" : 1500,
+        "restrictions" : {
+          "expiry" : 1486897770014,
+          "location" : {
+            "lat" : 123,
+            "lon" : 123
+          },
+          "merchants_only" : ["Organic Cafe", "Chicken Palace", "Cheese Galore", "Chuckee Cheese"],
+          "single_max" : 1500
+        }
+      }
+    },
+    "6093207207" : {
+      "authenticationState" : "AUTHENTICATED",
+      "money" : {
+        "amount" : 1500,
+        "restrictions" : {
+          "expiry" : 1486897770014,
+          "location" : {
+            "lat" : 123,
+            "lon" : 123
+          },
+          "merchants_only" : "Macy's",
+          "single_max" : 1500
+        }
+      }
+    },
+    "7325527269" : {
+      "authenticationState" : "AUTHENTICATED",
+      "money" : {
+        "amount" : 1500,
+        "restrictions" : {
+          "expiry" : 1486897770014,
+          "location" : {
+            "lat" : 123,
+            "lon" : 123
+          },
+          "merchants_only" : ["Extreme Pizza", "Dumpster Dumplings", "Subway", "Apple"],
+          "single_max" : 1500
+        }
+      }
+    },
+    "8478499720" : {
+      "authenticationState" : "AUTHENTICATED",
+      "money" : {
+        "amount" : 1500,
+        "restrictions" : {
+          "expiry" : 1486897770014,
+          "location" : {
+            "lat" : 123,
+            "lon" : 123
+          },
+          "merchants_only" : ["Sears", "Peet's Coffee", "Taco City", "Pho Tan Hao"],
+          "single_max" : 1500
+        }
+      }
+    },
+    "6093207208" : {
+      "authenticationState" : "AUTHENTICATED",
+      "money" : {
+        "amount" : 1500,
+        "restrictions" : {
+          "expiry" : 1486897770014,
+          "location" : {
+            "lat" : 123,
+            "lon" : 123
+          },
+          "merchants_only" : "Macy's",
+          "single_max" : 1500
+        }
+      }
+    }
+  }
+}
